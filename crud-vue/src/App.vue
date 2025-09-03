@@ -1,4 +1,6 @@
 <template>
+
+  // Header
   <v-app>
     <v-app-bar color="primary">
       <router-link to="/" style="display: flex; align-items: center; max-width: 70px;">
